@@ -1,0 +1,8 @@
+﻿  ClientThread.cpp
+D:\Szamtech_I-IV\Sz_halozatok\ChatServer\Server\Server\ClientThread.cpp(159,22): warning C4018: '<': signed/unsigned mismatch
+D:\Szamtech_I-IV\Sz_halozatok\ChatServer\Server\Server\ClientThread.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+D:\Szamtech_I-IV\Sz_halozatok\ChatServer\Server\Server\Source.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Szamtech_I-IV\Sz_halozatok\ChatServer\Server\Server\Source.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Server.vcxproj -> D:\Szamtech_I-IV\Sz_halozatok\ChatServer\Server\Debug\Server.exe
